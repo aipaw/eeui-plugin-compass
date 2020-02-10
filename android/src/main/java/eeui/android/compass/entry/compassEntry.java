@@ -19,7 +19,7 @@ public class compassEntry {
 
         //1、注册weex模块
         try {
-            WXSDKEngine.registerModule("compass", AppcompassModule.class);
+            WXSDKEngine.registerModule("eeuiCompass", AppcompassModule.class);
         } catch (WXException e) {
             e.printStackTrace();
         }

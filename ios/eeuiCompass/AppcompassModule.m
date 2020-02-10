@@ -13,7 +13,7 @@
 
 @implementation AppcompassModule
 
-WX_PlUGIN_EXPORT_MODULE(compass, AppcompassModule)
+WX_PlUGIN_EXPORT_MODULE(eeuiCompass, AppcompassModule)
 WX_EXPORT_METHOD(@selector(get:))
 WX_EXPORT_METHOD(@selector(watch::))
 WX_EXPORT_METHOD(@selector(clearWatch:))

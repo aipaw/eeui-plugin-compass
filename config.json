@@ -1,0 +1,6 @@
+{
+	"desc": "获取当前方位角、实时监听方位角",
+	"requireFormatName": "eeuiCompass",
+	"requireName": "eeui/compass",
+	"title": "指南针"
+}
